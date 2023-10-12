@@ -1493,6 +1493,13 @@ h1, h2, h3, h4, h5, h6, p, #bottomblockhead h2{
 .para1 h2, .para1 h3, .para1 p {
     color: #fff !important;
 }
+.para1 h3{
+    font-family: 'Montserrat medium';
+    font-size: 34px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
 .para1 h2{
     font-family: 'stencil_stdbold';
     font-weight: 400;
@@ -1795,6 +1802,12 @@ a.navbar-brand>img
 .content-grid {
     margin: 0 -15px!important;
 }
+.para1 h3{
+
+    font-size: 18px;
+   
+}
+
 }
 
 @media screen and (max-width:480px){
